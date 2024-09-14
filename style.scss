@@ -1,9 +1,14 @@
 @use 'partials/top-picks';
 @use 'partials/styles-cartes';
-@use 'sass:color';
+@use "variables";
 
-.card {
+
+html {
     background-color: variables.$primary;
 }
 
 
+.card {
+    margin: 5px;
+    padding: 5px;
+}
