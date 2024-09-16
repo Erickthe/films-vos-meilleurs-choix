@@ -1,10 +1,10 @@
 .top-picks {
   position: relative;
   padding: 50px;
-  background-color: #80baa1;
+  background-color: #61b490;
 }
 .top-picks__header {
-  border-left: solid 5px #73BA9B;
+  border-left: solid 5px #54b48b;
   padding-left: 20px;
   color: white;
 }
@@ -33,13 +33,13 @@
   width: 100%;
   padding: 5px 0;
   border: 0;
-  background-color: #99baac;
-  color: #ba7392;
+  background-color: #7ab49b;
+  color: #b4547d;
 }
 .card__btn:hover {
-  background-color: #b3bab7;
+  background-color: #94b4a6;
 }
 
 body {
-  background-color: #73BA9B;
+  background-color: #54b48b;
 }/*# sourceMappingURL=style.css.map */
